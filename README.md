@@ -14,9 +14,10 @@ All the data performance was from the worldwide champioships of 2020 year.
 
  - [Results and simulation of a match](https://my.visme.co/view/w4j61pe1-g8n5oppexxz12qvz)
  - was neccesarry to clean the dataset, add certain columns and transform so each row represent a entire match.
- - Apply _heatmap_ & _PCA_ to reduce the importance of our dataset
+ - Apply _heatmap_ & _PCA_ to reduce the number columns of our dataset
   - Identify which are the most important features in a game, comparing methods of _feature engineering_ & _xgboost_, this would help us to avoid overfitting in our model.
  - Apply different models so we can view which could help to predict our results.
+ - Using different methods of measurements to know the score of our predictions
  - For teh simulation of the match, two different points of view were taken to present results
 ---
 # Thanks for your time!
